@@ -1,6 +1,6 @@
 ### Hi, welcome to my profile!
 
-Osman is someting of an AI himself.
+Currently focused on the mighty "**Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow**"
 
 [![LinkedIn Connect](https://img.shields.io/badge/Linked.in-black?color=0d1117&labelColor=212121&logo=linkedin&style=for-the-badge&logoColor=58a6ff)](https://www.linkedin.com/in/osman-bayram-648883200/)
 
