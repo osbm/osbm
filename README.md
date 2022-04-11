@@ -8,6 +8,9 @@ Find me at:
 Languages:
 
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
+
+Operating systems:
+
 ![Kubuntu](https://img.shields.io/badge/-KUbuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=white)
 
 Tools:
