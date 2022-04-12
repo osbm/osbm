@@ -17,7 +17,7 @@ find me at:
 
 [![LinkedIn Connect](https://img.shields.io/badge/Linkedin-black?&logo=linkedin&style=for-the-badge&logoColor=0b62c3)](https://www.linkedin.com/in/osbm/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-black?style=for-the-badge&logo=stack-overflow)](https://stackoverflow.com/users/9279225/osbm)
-[![Kaggle](https://img.shields.io/badge/Kaggle-black?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/osbm)
+[![Kaggle](https://img.shields.io/badge/Kaggle-black?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/osmanf)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/osbm)
 
 languages:
