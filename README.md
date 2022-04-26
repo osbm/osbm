@@ -5,6 +5,7 @@
 </div>
 
 ### Some facts about me:
+- pronounced [/osman faɾukʰ ba̟jɾam/](http://ipa-reader.xyz/?text=osman%20fa%C9%BEuk%CA%B0%20ba%CC%9Fj%C9%BEam&voice=Joey) (according to [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet))
 - I am currently a student at the [Bahcesehir University](https://bau.edu.tr/), studying **Artificial Intelligence**
 - I have a lifelong dream to program an [AGI](https://en.wikipedia.org/wiki/Artificial_general_intelligence).
 - I am currently using **Kubuntu**, but i miss Manjaro :D
