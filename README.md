@@ -44,6 +44,7 @@ tools:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
 ![PyCharm](https://img.shields.io/badge/PyCharm-black.svg?style=for-the-badge&logo=pycharm&logoColor=20d085)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-black.svg?style=for-the-badge&logo=jupyter)
+![DVC](https://img.shields.io/badge/-Data%20version%20control-black?style=for-the-badge&logo=data-version-control)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-black.svg?style=for-the-badge&logo=googlecolab)
 ![Anaconda](https://img.shields.io/badge/Anaconda-black.svg?style=for-the-badge&logo=anaconda)
 ![Jira](https://img.shields.io/badge/jira-black.svg?style=for-the-badge&logo=jira&logoColor=247df2)
