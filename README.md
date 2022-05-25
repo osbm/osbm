@@ -26,13 +26,6 @@ languages:
 ![C++](https://img.shields.io/badge/-C%2B%2B-black?style=for-the-badge&logo=C%2B%2B&logoColor=6295cb)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-black?style=for-the-badge&logo=LaTeX)
 
-operating systems:
-
-![Kubuntu](https://img.shields.io/badge/-KUbuntu-black?style=for-the-badge&logo=kubuntu&logoColor=0075bb)
-![Manjaro](https://img.shields.io/badge/-Manjaro-black?style=for-the-badge&logo=manjaro)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=for-the-badge&logo=ubuntu)
-![Fedora](https://img.shields.io/badge/-Fedora-black?style=for-the-badge&logo=fedora)
-
 tools:
 
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
