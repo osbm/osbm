@@ -14,6 +14,7 @@
 
 # [Kaggle notebooks](https://www.kaggle.com/osmanf/notebooks) and [Github Gists](https://gist.github.com/osbm)
 - [turkey_earthquake.js](https://gist.github.com/osbm/6fb398dcb26e3412ce03a1376e18b4c4): An Google Earth Engine script to visualize the damage on a city during 2023 Turkey-Syria earthquake.
+- [huggingface-login-using-secrets](https://www.kaggle.com/code/osmanf/huggingface-login-using-secrets): A kaggle notebook to login to huggingface hub using kaggle secrets.
 
 
 
