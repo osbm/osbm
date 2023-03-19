@@ -9,6 +9,8 @@
 - I have a lifelong dream to program an [AGI](https://en.wikipedia.org/wiki/Artificial_general_intelligence).
 - I am currently using **Manjaro** (a.k.a. **I use Arch btw**)
 
+## [Here is a non-exhaustive list of my projects](projects.md)
+
 <div align=center>
 
 
