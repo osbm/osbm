@@ -28,7 +28,8 @@ find me at:
 [![wandb](https://img.shields.io/badge/wandb-black?&style=for-the-badge&logoWidth=20&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAMAAAC7IEhfAAAAVFBMVEUAAAD/zzD/zDP/zDL/zDL/zDP/zDL/zzD/yzD/zDL/zDP/zDP/yzP/zDL/zDP/yzL/zzD/yzL/zDP/zDL/zTL/zDP/zTL/zjH/zDP/yzL/zDP///9uhBhgAAAAGnRSTlMAIK/vn6CQMEDgsFDP3/CAEI+/0HBfYD9vwEDSHskAAAFSSURBVHicrZTploMgDIVFRtbK4kJn8v4POqSoYMXWntP8EbwfAW6ApiFtS3+aF9HRlpD4ZRCD8zOM8ygzhgMugF33CSikBFUoWt9uukQVSCEqKeI46M/yl2EMgPkqaC2Arfx3vu9h0OXynSs6Wg/Qe++S32hQPT9fZNbIpVWbDReyyH0D10C4Do5LY1olQrwnGzgt8tjox9eYbadjHHrLDqCtMaIrwlo2FY6kiTLpJmartVYKdofkNC6DWIz6f85nV1dSuDlVLeDi3SnqXJRDwDUhWGwrBO/nDAoRZaU+Aaf91I9x0La7qSesmwuB5XzrsYJcRcFCZQtiBWu1+Dbo7vffe+6mEy/lMQVFYRjWPlHKGEVIgaS2ej64hxiBos1vrkIyHB+py6B5A24Pafdsh7WU7kYx2eHeyN8jX5bwNtGz9GUH38ejix+Cu9B6HCuX5h+DISYK+on5hwAAAABJRU5ErkJggg==)](https://wandb.ai/osbm)
 
 
-![](https://raw.githubusercontent.com/osbm/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/osbm/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![Github stats dark](https://raw.githubusercontent.com/osbm/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Github stats light](https://raw.githubusercontent.com/osbm/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=osbm&theme=dark)]
 </div>
