@@ -31,5 +31,5 @@ find me at:
 ![Github stats dark](https://raw.githubusercontent.com/osbm/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![Github stats light](https://raw.githubusercontent.com/osbm/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=osbm&theme=dark)]
+![GitHub Streak](https://streak-stats.demolab.com?user=osbm&theme=dark)
 </div>
