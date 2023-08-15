@@ -6,7 +6,6 @@
 
 ### Some facts about me:
 - I am currently studying **Artificial Intelligence** at the [Bahcesehir University](https://bau.edu.tr/)
-- 
 - I am currently using **Manjaro** (a.k.a. **I use Arch btw**)
 
 ## [Here is a non-exhaustive list of my projects](projects.md)
