@@ -7,6 +7,9 @@
 ### Some facts about me:
 - I am currently studying **Artificial Intelligence** at the [Bahcesehir University](https://bau.edu.tr/). Developing the machine spirit.
 - Btw I am using **Arch** with KDE plasma. (NixOS was NOT worth it as a developer.)
+- Here is my PGP key (send me an encrypted message): [github.com/osbm.gpg](https://github.com/osbm.gpg)
+- I am casually studying japanese (mostly kanji). [Here is my wanikani profile](https://www.wanikani.com/users/osbm).
+<!-- I like to hide eastern eggs in the most weird places. And you found one :) -->
 
 ## [Here is a non-exhaustive list of my projects](https://osmanbayram.com/portfolio)
 
