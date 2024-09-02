@@ -4,6 +4,7 @@
 
 </div>
 
+
 ### Some facts about me:
 - I am currently studying **Artificial Intelligence** at the [Bahcesehir University](https://bau.edu.tr/). Developing the machine spirit.
 - Btw I am using **Arch** with KDE plasma. (NixOS was NOT worth it as a developer.)
