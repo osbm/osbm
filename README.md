@@ -7,10 +7,10 @@
 
 ### Some facts about me:
 - I am currently studying **Artificial Intelligence** at the [Bahcesehir University](https://bau.edu.tr/). Developing the machine spirit.
-- Btw I am using **Arch** and **NixOS** with KDE plasma. ([dotfiles](https://github.com/osbm/dotfiles) and [nixos-configuration](https://github.com/osbm/nixos-configuration))
-- I am using a open source split mechanical keyboard named [Corne](https://github.com/foostan/crkbd) and [here is my keymap](https://github.com/osbm/qmk-keymap-corne)
-- Here is my PGP key (send me an encrypted message): [github.com/osbm.gpg](https://github.com/osbm.gpg)
-- I am casually studying japanese (mostly kanji). [Here is my wanikani profile](https://www.wanikani.com/users/osbm).
+- Btw I am using **NixOS** with KDE plasma. ([dotfiles](https://github.com/osbm/dotfiles) and [nixos-configuration](https://github.com/osbm/nixos-configuration))
+- I built a open source split mechanical keyboard named [Corne](https://github.com/foostan/crkbd) and [here is my keymap](https://github.com/osbm/qmk-keymap-corne)
+- Here is my PGP key (send me an encrypted message 🕵️): [github.com/osbm.gpg](https://github.com/osbm.gpg)
+- I am casually studying japanese. [Here is my wanikani profile](https://www.wanikani.com/users/osbm).
 <!-- I like to hide eastern eggs in the most weird places. And you found one :) -->
 
 ## [Here is a non-exhaustive list of my projects](https://osmanbayram.com/portfolio)
