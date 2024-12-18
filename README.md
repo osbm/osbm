@@ -13,7 +13,6 @@
 - I am casually studying japanese. [Here is my wanikani profile](https://www.wanikani.com/users/osbm).
 <!-- I like to hide eastern eggs in the most weird places. And you found one :) -->
 
-## [Here is a non-exhaustive list of my projects](https://osmanbayram.com/portfolio)
 
 <div align=center>
 
