@@ -7,7 +7,7 @@
 
 ### Some facts about me:
 - I am currently studying **Artificial Intelligence** at the [Bahcesehir University](https://bau.edu.tr/). Developing the machine spirit.
-- Btw I am using **NixOS** with KDE plasma. ([dotfiles](https://github.com/osbm/dotfiles) and [nixos-configuration](https://github.com/osbm/nixos-configuration))
+- Btw I am using **NixOS** with KDE plasma. Here is my [nix configuration flake](https://github.com/osbm/flake)
 - I built a open source split mechanical keyboard named [Corne](https://github.com/foostan/crkbd) and [here is my keymap](https://github.com/osbm/qmk-keymap-corne)
 - Here is my PGP key (send me an encrypted message 🕵️): [github.com/osbm.gpg](https://github.com/osbm.gpg)
 - I am casually studying japanese. [Here is my wanikani profile](https://www.wanikani.com/users/osbm).
